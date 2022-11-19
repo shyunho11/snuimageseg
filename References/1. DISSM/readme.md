@@ -1,10 +1,10 @@
 # Deep Implicit Statistical Shape Models for 3D Medical Image Delineation
 
-Raju et al., 2022  
+__Raju et al., 2022__  
 
-PDF: https://ojs.aaai.org/index.php/AAAI/article/view/20110/19869  
+__PDF:__ https://ojs.aaai.org/index.php/AAAI/article/view/20110/19869  
 
-Codes: https://github.com/AshStuff/dissm  
+__Codes:__ https://github.com/AshStuff/dissm  
 
 
 ### Further Readings
