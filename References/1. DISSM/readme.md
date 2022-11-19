@@ -9,7 +9,8 @@ Codes: https://github.com/AshStuff/dissm
 
 ## Further Readings
 
-###nnU-Net
+### [Recommended]
+### nnU-Net
 PDF: https://www.nature.com/articles/s41592-020-01008-z.pdf  
 __(SNU Network Only)__  
 
