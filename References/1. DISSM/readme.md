@@ -2,9 +2,9 @@
 
 __Raju et al., 2022__  
 
-__PDF:__ https://ojs.aaai.org/index.php/AAAI/article/view/20110/19869  
+PDF: https://ojs.aaai.org/index.php/AAAI/article/view/20110/19869  
 
-__Codes:__ https://github.com/AshStuff/dissm  
+Codes: https://github.com/AshStuff/dissm  
 
 
 ### Further Readings
