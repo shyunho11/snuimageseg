@@ -7,6 +7,11 @@ PDF: https://ojs.aaai.org/index.php/AAAI/article/view/20110/19869
 Codes: https://github.com/AshStuff/dissm  
 
 
-### Further Readings
+## Further Readings
 
+###[Recommended]
+###1. nnU-Net
+PDF: https://www.nature.com/articles/s41592-020-01008-z.pdf  
+__(SNU Network Only)__  
 
+Codes: https://github.com/MIC-DKFZ/nnUNet
