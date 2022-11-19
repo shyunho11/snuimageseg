@@ -1,4 +1,4 @@
-# References for Medical Imaging
+# References for Medical Image Segmentation
 
 ### Top Journals
 * Machine Learning: NIPS, ICML, ICLR
