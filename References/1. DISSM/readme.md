@@ -11,7 +11,13 @@ Codes: https://github.com/AshStuff/dissm
 
 ### [Recommended]
 ### nnU-Net
+Title: nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation  
 PDF: https://www.nature.com/articles/s41592-020-01008-z.pdf  
 __(SNU Network Only)__  
 
 Codes: https://github.com/MIC-DKFZ/nnUNet
+
+
+### [Mathematics]
+### DeepSDF
+Title: Learning Continuous Signed Distance Functions for Shape Representation
