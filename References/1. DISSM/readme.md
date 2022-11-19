@@ -57,6 +57,6 @@ https://arxiv.org/pdf/1707.08037.pdf (pre-print)
 
 <br>
 
-### 8. 3D U-Net (Used for DISSM's Encoder)
+### 8. 3D U-Net (used for DISSM's Encoder)
 __3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation__  
 https://arxiv.org/pdf/1606.06650.pdf (pre-print)
