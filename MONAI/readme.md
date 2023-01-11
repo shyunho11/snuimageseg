@@ -1,20 +1,16 @@
 # MONAI Framework codes and materials for learning
 
-conda create -n snuimageseg python=3.8
-conda config --set auto_activate_base false
-exit
+conda create -n snuimageseg python=3.8  
+conda config --set auto_activate_base false  
+exit  
 
-conda activate snuimageseg
-conda install jupyter
-conda install -c conda-forge jupyterlab
-ipython
+conda activate snuimageseg  
+conda install jupyter  
+conda install -c conda-forge jupyterlab  
 
-jupyter notebook --generate-config
-nano .jupyter/jupyter_notebook_config.py
-
-ssh -L 3333:localhost:8888 aistore3@demo1.mkiscore.com -p 2222
-conda activate snuimageseg
-jupyter lab
+ssh -L 3333:localhost:8888 aistore3@demo1.mkiscore.com -p 2222  
+conda activate snuimageseg  
+jupyter lab  
 
 http://localhost:3333
 
