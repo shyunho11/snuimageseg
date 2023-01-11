@@ -8,6 +8,8 @@ conda activate snuimageseg
 conda install jupyter  
 conda install -c conda-forge jupyterlab  
 
+[Client]
+
 ssh -L 3333:localhost:8888 aistore3@demo1.mkiscore.com -p 2222  
 conda activate snuimageseg  
 jupyter lab  
