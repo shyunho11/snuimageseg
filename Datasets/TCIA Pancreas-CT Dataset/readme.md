@@ -10,5 +10,5 @@ done
 ```
 
 source:
-* https://wiki.cancerimagingarchive.net/display/Public/Pancreas-CT (DICOM-original)
-* https://academictorrents.com/details/80ecfefcabede760cdbdf63e38986501f7becd49 (NIfTI-processed)
+* https://wiki.cancerimagingarchive.net/display/Public/Pancreas-CT (DICOM)
+* https://academictorrents.com/details/80ecfefcabede760cdbdf63e38986501f7becd49 (NIfTI)
