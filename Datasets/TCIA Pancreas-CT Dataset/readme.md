@@ -1,8 +1,12 @@
 # TCIA Pancreas-CT Dataset
 * 82 CT Scans for Liver Tumor Segmentation
 
+The images were processed into nii files using the following script:
 ```
-magnet:?xt=urn:btih:80ecfefcabede760cdbdf63e38986501f7becd49&tr=https%3A%2F%2Facademictorrents.com%2Fannounce.php&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
+for i in `ls . | grep PAN`; do 
+   echo $i; 
+   dcm2niix -vox 1 -z y -o ./data/ -m y -s y -f %n $i
+done
 ```
 
 source:
